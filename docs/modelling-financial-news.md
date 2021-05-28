@@ -74,7 +74,7 @@ I'm also going to showcase a few plots that go more in-depth into the data set a
 
 ## Creating a LSTM model
 
-
+When it comes to NLP, we want to use a Recurrent Neural Network (RNN) to help us with an input that is changing in length.
 
 
 
