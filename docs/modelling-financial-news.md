@@ -26,7 +26,7 @@ Before jumping to the technical stuff, I'd really like to explore the dataset. S
 (4845, 2)
 ```
 
-![Sentiment distribution in the data set](/plots/sent-dist.png)
+![Sentiment distribution in the data set](./plots/sent-dist.png)
 
 ```Python
 neutral : 59.4%
