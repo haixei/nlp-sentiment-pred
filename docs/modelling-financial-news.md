@@ -46,23 +46,23 @@ I'm also going to showcase a few plots that go more in-depth into the data set a
 
 ### Distribution of words
 
-![Words distribution](/plots/words-dist.png)
+![Words distribution](./plots/words-dist.png)
 
-![Words distribution by sentiment](/plots/words-dist-sent.png)
+![Words distribution by sentiment](./plots/words-dist-sent.png)
 
 ### Correlation between headline properties
 
-![Correlation heatmap for the feature correlation](/plots/corr.png)
+![Correlation heatmap for the feature correlation](./plots/corr.png)
 
-![Punctuation against the sentiment](/plots/punct_corr.png)
+![Punctuation against the sentiment](./plots/punct_corr.png)
 
-![Punctuation against the sentiment](/plots/char-corr.png)
+![Punctuation against the sentiment](./plots/char-corr.png)
 
-![Punctuation against the sentiment](/plots/stopwords-corr.png)
+![Punctuation against the sentiment](./plots/stopwords-corr.png)
 
 ### Most frequent words
 
-![Top unique words](/plots/top-words.png)
+![Top unique words](./plots/top-words.png)
 
 
 
